@@ -76,7 +76,7 @@ function App() {
       } />
       <Route path="/prompt" element={<Prompt />} />
       <Route path="/interview" element={<Interview />} />
-      <Route path="/interview" element={<Interview />} />
+      <Route path="/results" element={<Results />} />
     </Routes>
   );
 }
